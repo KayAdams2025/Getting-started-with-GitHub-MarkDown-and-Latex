@@ -5,4 +5,5 @@
 * Cat 1 : ₍^. .^₎⟆
 * Cat 2 : ᓚᘏᗢ
 * Cat 3 : ≽^•⩊•^≼
-(Click here for more cats!)[https://emojicombos.com/cat]
+
+[Click here for more cats!](https://emojicombos.com/cat)
