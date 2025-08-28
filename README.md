@@ -1,7 +1,7 @@
 # Getting-started-with-GitHub-MarkDown-and-Latex
 
-#**Cats**!
-##_Cute cats to copy and paste_
+# **Cats**!
+## _Cute cats to copy and paste_
 * Cat 1 : ₍^. .^₎⟆
 * Cat 2 : ᓚᘏᗢ
 * Cat 3 : ≽^•⩊•^≼
