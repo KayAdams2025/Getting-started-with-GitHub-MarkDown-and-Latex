@@ -16,3 +16,6 @@ If the frequency of the drive was higher than the natural frequency of the pendu
 I would guess that the pendulums displacement angle would be dependent on the angular momentum and the amount of the displacement (how far down the pendulum is moved).
 ## Question 3
 My expectation would be that the pendulum would move almost the same as if the downward movement hadn't occured, but would take slightly longer to begin it's oscillating movement.
+
+## Commit Photo
+![Photo showing a list of all commits to this file](<img width="2674" height="1426" alt="image" src="https://github.com/user-attachments/assets/f5cdf41d-88a8-46ee-861e-9a5f77048f78" />)
