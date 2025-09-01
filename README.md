@@ -18,4 +18,4 @@ I would guess that the pendulums displacement angle would be dependent on the an
 My expectation would be that the pendulum would move almost the same as if the downward movement hadn't occured, but would take slightly longer to begin it's oscillating movement.
 
 ## Commit Photo
-![Photo showing a list of all commits to this file](
+![Photo showing a list of all commits to this file](https://github.com/KayAdams2025/Getting-started-with-GitHub-MarkDown-and-Latex/blob/main/Screenshot%202025-09-01%20165256.png)
